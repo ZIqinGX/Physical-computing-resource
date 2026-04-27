@@ -1,6 +1,6 @@
-# Physical-computing-resource
+# [Physical-computing](https://en.wikipedia.org/wiki/Physical_computing)-resource
 Store physical computing source
-https://en.wikipedia.org/wiki/Physical_computing
+
 
 # Useful links
 ## For e-textile 
